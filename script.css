@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f0f0f;
+}
+input{
+    border: none;
+    width: 100%;
+}
+.calculator{
+    width:28vw;
+    height: 49vh;
+    border:2px solid black;
+    padding: 7px;
+}
+table{
+    width:27vw;
+    height: 40vh;
+    margin-top: 9px;
+}
+.button_list{
+    background: transparent;
+    width:6vw;
+    box-shadow: 1px 5px black;
+    color: white;
+    margin-top: 9px;
+}
+.c-button{
+    width:13vw;
+    background: transparent;
+    box-shadow: 1px 5px black;
+    color: white;
+    margin-top: 9px;
+}
+.plus{
+    height: 14vh;
+    width: 5vw;
+    margin-left: 6px;
+    background: transparent;
+    box-shadow: 1px 5px black;
+    color: white;
+    margin-top: 9px;
+}
